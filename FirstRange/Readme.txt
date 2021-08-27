@@ -1,0 +1,1 @@
+Range 1 pF to 1 nF
